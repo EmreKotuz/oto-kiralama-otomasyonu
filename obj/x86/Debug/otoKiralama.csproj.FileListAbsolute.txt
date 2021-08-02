@@ -1,0 +1,32 @@
+C:\Users\MSI\AppData\Local\Temporary Projects\otoKiralama\bin\Debug\otoKiralama.exe
+C:\Users\MSI\AppData\Local\Temporary Projects\otoKiralama\bin\Debug\otoKiralama.pdb
+C:\Users\MSI\AppData\Local\Temporary Projects\otoKiralama\obj\x86\Debug\otoKiralama.giris.resources
+C:\Users\MSI\AppData\Local\Temporary Projects\otoKiralama\obj\x86\Debug\otoKiralama.patron.resources
+C:\Users\MSI\AppData\Local\Temporary Projects\otoKiralama\obj\x86\Debug\otoKiralama.Properties.Resources.resources
+C:\Users\MSI\AppData\Local\Temporary Projects\otoKiralama\obj\x86\Debug\otoKiralama.csproj.GenerateResource.Cache
+C:\Users\MSI\AppData\Local\Temporary Projects\otoKiralama\obj\x86\Debug\otoKiralama.exe
+C:\Users\MSI\AppData\Local\Temporary Projects\otoKiralama\obj\x86\Debug\otoKiralama.pdb
+C:\Users\MSI\AppData\Local\Temporary Projects\otoKiralama\obj\x86\Debug\otoKiralama.csprojResolveAssemblyReference.cache
+C:\Users\MSI\AppData\Local\Temporary Projects\otoKiralama\bin\Debug\MySql.Data.dll
+C:\Users\MSI\AppData\Local\Temporary Projects\otoKiralama\obj\x86\Debug\otoKiralama.patronAnaSayfa.resources
+C:\Users\MSI\AppData\Local\Temporary Projects\otoKiralama\obj\x86\Debug\otoKiralama.patronArac.resources
+C:\Users\MSI\documents\visual studio 2010\Projects\otoKiralama\otoKiralama\obj\x86\Debug\otoKiralama.exe
+C:\Users\MSI\documents\visual studio 2010\Projects\otoKiralama\otoKiralama\obj\x86\Debug\otoKiralama.pdb
+C:\Users\MSI\documents\visual studio 2010\Projects\otoKiralama\otoKiralama\bin\Debug\otoKiralama.exe
+C:\Users\MSI\documents\visual studio 2010\Projects\otoKiralama\otoKiralama\bin\Debug\otoKiralama.pdb
+C:\Users\MSI\documents\visual studio 2010\Projects\otoKiralama\otoKiralama\bin\Debug\MySql.Data.dll
+C:\Users\MSI\documents\visual studio 2010\Projects\otoKiralama\otoKiralama\obj\x86\Debug\otoKiralama.csprojResolveAssemblyReference.cache
+C:\Users\MSI\documents\visual studio 2010\Projects\otoKiralama\otoKiralama\obj\x86\Debug\otoKiralama.giris.resources
+C:\Users\MSI\documents\visual studio 2010\Projects\otoKiralama\otoKiralama\obj\x86\Debug\otoKiralama.patron.resources
+C:\Users\MSI\documents\visual studio 2010\Projects\otoKiralama\otoKiralama\obj\x86\Debug\otoKiralama.patronAnaSayfa.resources
+C:\Users\MSI\documents\visual studio 2010\Projects\otoKiralama\otoKiralama\obj\x86\Debug\otoKiralama.patronArac.resources
+C:\Users\MSI\documents\visual studio 2010\Projects\otoKiralama\otoKiralama\obj\x86\Debug\otoKiralama.Properties.Resources.resources
+C:\Users\MSI\documents\visual studio 2010\Projects\otoKiralama\otoKiralama\obj\x86\Debug\otoKiralama.csproj.GenerateResource.Cache
+C:\Users\MSI\documents\visual studio 2010\Projects\otoKiralama\otoKiralama\obj\x86\Debug\otoKiralama.garaj.resources
+C:\Users\MSI\documents\visual studio 2010\Projects\otoKiralama\otoKiralama\obj\x86\Debug\otoKiralama.gunEkle.resources
+C:\Users\MSI\documents\visual studio 2010\Projects\otoKiralama\otoKiralama\obj\x86\Debug\otoKiralama.agekle.resources
+C:\Users\MSI\documents\visual studio 2010\Projects\otoKiralama\otoKiralama\obj\x86\Debug\otoKiralama.personelekle.resources
+C:\Users\MSI\documents\visual studio 2010\Projects\otoKiralama\otoKiralama\obj\x86\Debug\otoKiralama.personel.yoneticiGiris.resources
+C:\Users\MSI\documents\visual studio 2010\Projects\otoKiralama\otoKiralama\obj\x86\Debug\otoKiralama.personel.otoKiralaGiris.resources
+C:\Users\MSI\documents\visual studio 2010\Projects\otoKiralama\otoKiralama\obj\x86\Debug\otoKiralama.personel.arackirala.resources
+C:\Users\MSI\documents\visual studio 2010\Projects\otoKiralama\otoKiralama\obj\x86\Debug\otoKiralama.personel.ciro.resources

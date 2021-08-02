@@ -1,0 +1,11 @@
+C:\Users\MSI\documents\visual studio 2010\Projects\otoKiralama\otoKiralama\bin\Release\otoKiralama.exe
+C:\Users\MSI\documents\visual studio 2010\Projects\otoKiralama\otoKiralama\bin\Release\otoKiralama.pdb
+C:\Users\MSI\documents\visual studio 2010\Projects\otoKiralama\otoKiralama\bin\Release\MySql.Data.dll
+C:\Users\MSI\documents\visual studio 2010\Projects\otoKiralama\otoKiralama\obj\x86\Release\otoKiralama.giris.resources
+C:\Users\MSI\documents\visual studio 2010\Projects\otoKiralama\otoKiralama\obj\x86\Release\otoKiralama.patron.resources
+C:\Users\MSI\documents\visual studio 2010\Projects\otoKiralama\otoKiralama\obj\x86\Release\otoKiralama.patronAnaSayfa.resources
+C:\Users\MSI\documents\visual studio 2010\Projects\otoKiralama\otoKiralama\obj\x86\Release\otoKiralama.patronArac.resources
+C:\Users\MSI\documents\visual studio 2010\Projects\otoKiralama\otoKiralama\obj\x86\Release\otoKiralama.Properties.Resources.resources
+C:\Users\MSI\documents\visual studio 2010\Projects\otoKiralama\otoKiralama\obj\x86\Release\otoKiralama.csproj.GenerateResource.Cache
+C:\Users\MSI\documents\visual studio 2010\Projects\otoKiralama\otoKiralama\obj\x86\Release\otoKiralama.exe
+C:\Users\MSI\documents\visual studio 2010\Projects\otoKiralama\otoKiralama\obj\x86\Release\otoKiralama.pdb
